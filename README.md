@@ -1,2 +1,1 @@
-# CS483CourseProject
-Mining Mastodon for silent users
+# Mining Mastodon for silent users
